@@ -219,3 +219,37 @@ html {
   font-weight: 700;
   color: #212529;
 }
+
+/* Section CTA */
+
+.container__cta {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.div__cta {
+  padding: 6rem 5rem;
+  background-color: #f8f0fc;
+  border-radius: 6px;
+}
+
+.heading__tertiary {
+  font-size: 2.4rem;
+  margin-bottom: 2rem;
+  columns: #212529;
+}
+
+.cta__paragraph {
+  font-size: 1.8rem;
+  color: #343a40;
+  margin-bottom: 2rem;
+}
+
+.btn__cta {
+  font-size: 1.8rem;
+}
+
+.btn__cta:hover {
+  background-color: #d6336c;
+}
