@@ -253,3 +253,18 @@ html {
 .btn__cta:hover {
   background-color: #d6336c;
 }
+
+/* Footer */
+
+.footer {
+  height: 5.2rem;
+  background-color: #f8f0fc;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer__paragraph {
+  font-size: 1.4rem;
+  color: #495057;
+}
