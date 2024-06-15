@@ -196,3 +196,26 @@ html {
   letter-spacing: 0.5px;
   color: #212529;
 }
+
+/* Section Lorem */
+.section__lorem {
+  background-color: #f8f0fc;
+  position: relative;
+}
+
+.blockquote__lorem {
+  font-size: 2.4rem;
+  width: 90rem;
+  margin: 0 auto;
+  padding-top: 15rem;
+  padding-bottom: 20rem;
+  color: #343a40;
+}
+.quote__author {
+  font-size: 1.8rem;
+  position: absolute;
+  top: 60%;
+  right: 28%;
+  font-weight: 700;
+  color: #212529;
+}
